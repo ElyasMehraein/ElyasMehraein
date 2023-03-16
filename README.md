@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ElyasMehraein
-- 👀 I’m interested in Philosophical Economics
-- 🌱 I’m currently learning ui/ux and javascript
-- 💞️ I’m looking to collaborate on GoodDollar wich is Decenterilized UBI and Karbakar.ir A cooperative to exchange expertise without the need for money
-- 📫 How to reach me? search me on instagram
+- 👋 Hi, I’m @ElyasMehraein 
+#anarchist 
+#mechanical_engineer 
+#JavaScript_programmer
+
+Coding a decentralized economy to build a world where all wealth is created not for anyone with money, but with love for those we love.
 
 <!---
 ElyasMehraein/ElyasMehraein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
