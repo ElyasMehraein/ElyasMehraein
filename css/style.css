@@ -74,9 +74,9 @@ body {
 }
 
 .countactUs {
-    /* position: relative; */
+    position: relative;
     width: 40%;
-    /* top: 200px; */
+    top: 200px;
     margin: auto;
     text-align: center;
     display: flex;
