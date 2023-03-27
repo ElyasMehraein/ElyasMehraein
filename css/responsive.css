@@ -1,4 +1,4 @@
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
 
 
     .image-and-description {
@@ -50,7 +50,11 @@
         top: 0px;
     }
 }
-@media screen and (max-height: 700px) {
+@media screen and (max-height: 600px) {
+    .image-and-description {
+        height: 25rem;
+
+    }
     .image-and-description .description {
         margin-top: 0;
 
@@ -59,10 +63,6 @@
         margin-top: 0;
     }
 
-}
-
-@media screen and (max-height: 520px) {
-
     .image-and-description .personal-image img {
         width: 70%;
     
@@ -70,7 +70,8 @@
     .countactUs {
         position:fixed;
         top: 2rem;
-        width: 20%;
+        left: 2rem;
+        width: 5rem;
         display: flex;
         flex-direction: column;
         align-items: flex-end;
@@ -80,5 +81,13 @@
     .countactUs a{
         margin: 1rem;
 
+    }
+}
+@media screen and (max-height: 450px) {
+    .skills {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        background-color: black;
     }
 }

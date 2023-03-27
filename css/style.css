@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    background-color: black;
 }
 
 #first-page {
@@ -31,12 +30,16 @@ body {
 .image-and-description {
     display: flex;
     justify-content: center;
-    top: 150px;
+    position: relative;
+    /* background-color: blueviolet; */
+    height: 30rem;
 }
 
 .image-and-description .personal-image {
     margin-top: 10rem;
-    width: 17rem;
+    width: 12rem;
+    /* background-color: #6cbaff; */
+    height: 17rem;
 
 }
 
@@ -46,12 +49,13 @@ body {
 }
 
 .image-and-description .description {
-
+    /* background-color: rgb(54, 31, 183); */
     color: rgb(241, 241, 241);
     text-align: justify;
     text-underline-offset: 6px;
-    width: 20rem;
-    margin-top: 18rem;
+    width: 18rem;
+    height: 17rem;
+    margin-top: 10rem;
     left: 10px;
 
 }
@@ -86,7 +90,6 @@ body {
 
 .skills h2 {
     font-family: Georgia, serif;
-    position: relative;
     font-size: 14px;
     text-align: center;
 }
