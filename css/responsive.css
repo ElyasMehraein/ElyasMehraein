@@ -68,7 +68,7 @@
     
     }
     .countactUs {
-        position: absolute;
+        position:fixed;
         top: 2rem;
         width: 20%;
         display: flex;
