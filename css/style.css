@@ -9,11 +9,6 @@ body {
 
 }
 
-.blur {
-
-    backdrop-filter: blur(8px);
-}
-
 .bg-image {
     background-image:url(../img/bg.jpg);
     background-repeat: no-repeat;

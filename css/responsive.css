@@ -1,6 +1,9 @@
 @media screen and (max-width: 600px) {
 
+    .blur {
 
+        backdrop-filter: blur(2px);
+    }
     .image-and-description {
 
         flex-direction: column;
@@ -49,8 +52,16 @@
     .image-and-description .description  p1 {
         top: 0px;
     }
+    .blur {
+
+        backdrop-filter: blur(2px);
+    }
 }
 @media screen and (max-height: 600px) {
+    .blur {
+
+        backdrop-filter: blur(2px);
+    }
     .image-and-description {
         height: 25rem;
 
